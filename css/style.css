@@ -1,0 +1,46 @@
+html, body {
+  background-color: rgba(213,225,239,255);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;  /* Ensures the image will never be wider than the div */
+  height: auto;     /* Maintains the aspect ratio of the image */
+  display: block;   /* Removes any extra space under the image */
+  margin: 0 auto;
+  border-radius: 16px;  
+}
+
+.card-container {
+  padding: 1em;
+  border-radius: 16px;
+  background-color: #ffffff;
+  max-width: 50%;
+  margin-bottom: 2rem;
+}
+
+.card-desc {
+  color: rgb(1, 1, 48);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-size: larger;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
