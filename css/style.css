@@ -33,7 +33,7 @@ img {
 }
 
 h2 {
-  font-size: larger;
+  font-size: 18px;
 }
 
 p {
@@ -47,4 +47,16 @@ p {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 616px) {
+  .card-container {
+    max-width: 60%;
+  }
+}
+
+@media screen and (max-width: 416px) {
+  .card-container {
+    max-width: 65%;
+  }
 }
