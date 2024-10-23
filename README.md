@@ -80,7 +80,6 @@ I need more depth understanding about making element centered in the page and ho
 
 - Website - [Lutfinoor](https://www.your-site.com)
 - Frontend Mentor - [@lutfinoorm](https://www.frontendmentor.io/profile/lutfinoorm)
-- Github - [@lutfinoorm](https://github.com/lutfinoorm)
 
 
 ## Acknowledgments
